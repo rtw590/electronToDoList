@@ -1,0 +1,22 @@
+{
+  "name": "electrontodolist",
+  "version": "1.0.0",
+  "description": "shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtw590/electronToDoList.git"
+  },
+  "author": "Rob Waller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtw590/electronToDoList/issues"
+  },
+  "homepage": "https://github.com/rtw590/electronToDoList#readme",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
